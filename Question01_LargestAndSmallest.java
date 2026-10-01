@@ -1,4 +1,4 @@
-//Q.1 > Find the largest and smallest element in an integer array without using built-in min/max function.
+//Q.1 --> Find the largest and smallest element in an integer array without using built-in min/max function.
 
 package phase1;
 import java.util.Scanner;
