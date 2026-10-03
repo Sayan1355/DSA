@@ -35,6 +35,8 @@ public class Question02_SumAndAverage {
 
 
 
+//Output
+
 //Enter the number of the element :
 //        5
 //Enter 5 element:
