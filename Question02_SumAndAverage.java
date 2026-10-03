@@ -1,3 +1,6 @@
+// Q --> Calculate the sum and average of all elements in an array.
+
+
 package phase1;
 
 import java.util.Scanner;
